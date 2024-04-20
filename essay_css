@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body{
+	img{
+		display: none;
+			background: #FAFAFA;
+	}
+	font-family: Ubuntu !important;
+}
+
+font{
+	font-family: Ubuntu !important;
+	letter-spacing: .5px;
+	line-height: 30px;
+	color: #2e2e2e;
+	font-size: 18px;
+	text-align: justify !important;
+
+}
+.titleofessay{
+	font-weight: bold;
+	padding-top: 2em;
+	text-align: center;
+		color: #2e2e2e;
+		text-decoration: underline;
+}
+
+table{
+	width: 800px;
+	padding-left: 22%;
+}
+
+.gohome{
+	font-weight: 600;
+	cursor: pointer;
+}
