@@ -10,7 +10,7 @@ for index page
 
 ![image](https://github.com/iamneek/pgessay-remastered/assets/136208577/7ed53acd-1b14-4095-a927-da1ade7d9731)
 
-for essay list page 
+for essay list page (use essay.js in this page along with essaylist css)
 
 ![image](https://github.com/iamneek/pgessay-remastered/assets/136208577/6aacb796-b007-4ef3-af5c-a5871f1bc116)
 
